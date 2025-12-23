@@ -1,0 +1,664 @@
+The invaders spread their language all over the country.	1
+Sales were climbing after prices were lowered.	1
+The moon glared back at itself from the lake's surface.	1
+The cancer cells are attacking his liver.	1
+You have ruined my car by pouring sugar in the tank!	0
+The editors of the left- leaning paper attacked the new House Speaker.	1
+tack the notice on the board.	0
+European children learn the breast stroke; they often don't know how to crawl.	0
+Please guard my possessions while I'm away.	0
+the infection spread.	0
+Gun shots volleyed at the attackers.	0
+We exploded the nuclear bomb.	0
+We rotate the crops so as to maximize the use of the soil.	1
+He injected new life into the performance.	1
+Meteors showered down over half of Australia.	0
+The conversation gravitated towards politics.	1
+The beams scanned the night sky.	1
+poison someone's mind.	1
+Don't abuse the system.	1
+The chemical clouded the liquid to which it was added.	1
+this snake swims through the soil where it lives.	0
+She nags her husband all day long.	0
+Our business was hurt by the new competition.	1
+The fate of Bosnia lies in the hands of the West.	1
+This poses an interesting question.	1
+I inherited a castle from my French grandparents.	0
+stock prices are drifting higher.	1
+I attacked the problem as soon as I got out of bed.	1
+The wildfire scorched the forest and several homes.	0
+She locked her jewels in the safe.	0
+The cold pierced her bones.	1
+The champagne flowed at the wedding.	1
+A hot soup will revive me.	1
+Life in the camp drained him.	1
+This hotel can accommodate 250 guests.	0
+Interns have to rotate for a few months.	1
+Boys gravitate towards girls at that age.	1
+She was besieged by so many problems that she got discouraged.	1
+Sound is reflected well in this auditorium.	0
+The container leaked gasoline.	0
+Sales were climbing after prices were lowered.	1
+I salute your courage!	1
+The property vests in the trustees.	0
+They began to volley the tennis ball.	0
+Hitler attacked Poland on September 1, 1939 and started World War II.	0
+The professor plunged his students into the study of the Italian text.	1
+Islam is fermenting Africa.	1
+preserve the forest and the lakes.	0
+The muscles in her face convulsed.	0
+Our basement flooded during the heavy rains.	0
+sorrow had lined his face.	1
+Middle age dulled her appetite for travel.	1
+The bugs pinged the lamp shade.	0
+the meat was swimming in a fatty gravy.	1
+The new teacher tends to steamroller.	1
+I can't buy this story.	1
+The exercise class drains me of energy.	1
+His lack of interest in the project reflects badly on him.	1
+Goering often hunted wild boars in Poland.	0
+She interrupted her pregnancy.	1
+square the wood with a file.	0
+Her husband poisoned her drink in order to kill her.	0
+Suspense was building right from the beginning of the opera.	1
+She vested her vast fortune in her two sons.	0
+The bird flapped its wings.	0
+Their faces were clouded with sadness.	1
+She traced the circumstances of her birth.	1
+The wax melted in the sun.	0
+inject hydrogen into the balloon.	0
+The prisoner tugged at the chains.	0
+The bicycle looped around the tree.	1
+The nurse pricked my finger to get a small blood sample.	0
+The spaceship blazed out into space.	1
+she lightened the load on the tired donkey.	0
+relax the tension on the rope.	0
+flush the wound with antibiotics.	1
+They scraped a letter into the stone.	0
+She whistled for her maid.	0
+The bellies of the starving children are swelling.	0
+our new colleague relaxed when he saw that we were a friendly group.	0
+trace the outline of a figure in the sand.	0
+the bullet pinged when they struck the car.	0
+stamp fruit extract the juice.	1
+She leaned over the banister.	0
+her indifference to his amorous advances really steamed the young man.	1
+The ground levelled off.	0
+The lights were flashing.	0
+earthquakes convulsed the countryside.	1
+I can not digest all this information.	1
+We poured money into the education of our children.	1
+The towers were topped with conical roofs.	0
+The soldiers sifted through the woods.	1
+The latest intelligence is flashed to all command posts.	1
+tread grapes to make wine.	0
+lay a responsibility on someone.	1
+The fireflies were glowing and flying about in the garden.	0
+The stroke clouded memories of her youth.	1
+condense the contents of a book into a summary.	1
+A hot bath always relaxes me.	0
+wear one's hair in a certain way.	0
+They poured water over the floor.	0
+Your children have infected you with this head cold.	0
+I can breathe better when the air is clean.	0
+The government floated the ruble for a few months.	1
+The crisis precipitated by Russia's revolution.	1
+Who erased the files form my hard disk?	0
+She radiates. happiness	1
+The stunt pilot looped his plane.	0
+They taxed him failure to appear in court.	1
+His heart palpitated.	1
+They bind their books in leather.	0
+only few plants can immigrate to the island.	1
+They sifted through the job candidates.	1
+The White House sits on Pennsylvania Avenue.	1
+Suddenly, the proprietor emerged from his office.	0
+I'll ping my accountant -- April 15 is nearing.	1
+The furniture molded in the old house.	0
+The child drowned in the lake.	0
+The cord is all twisted.	0
+We sailed the Atlantic.	0
+These architects build in interesting and new styles.	0
+She could not recapture that feeling of happiness.	1
+build a modern nation.	1
+The music swelled to a crescendo.	1
+The hiker negociated the high mountain pass.	1
+Unrest erupted in the country.	1
+T. Boone Pickens raided many large companies.	0
+communicate a disease.	1
+He and his sons haven't communicated for years.	0
+Marsh gases ignited suddenly.	0
+She shed a lot of tears when this happened.	1
+The critics puffed up this Broadway production.	1
+crush an aluminum can.	0
+The businessman kited millions of dollars.	1
+The thought of her unhappiness pricked his conscience.	1
+The old man was nodding in his chair.	0
+They fastened various nicknames to each other.	1
+heap firewood around the fireplace.	0
+She spelled her husband at the wheel.	1
+Her interest in butterflies absorbs her completely.	1
+snow drifting several feet high.	0
+We tasted wines last night.	0
+They hunted the unwanted immigrants out of the neighborhood.	1
+The government is building new schools in this state.	0
+form the young child's character.	1
+The hikers topped the mountain just before noon.	1
+She clawed the doorknob.	1
+the government digested the entire law into a code.	1
+His laughter infects everyone who is in the same room.	1
+Hitler invaded Poland on September 1, 1939.	0
+Water leaked out of the can into the backpack.	0
+Some people can down a pound of meat in the course of one meal.	1
+The tooth erupted and had to be extracted.	1
+pin the needle to the shirt.	0
+The residents of this village adhered to Catholicism.	1
+he buzzed the servant.	1
+My skin crawled -- I was terrified.	1
+He pushed the table into a corner.	0
+The steering of my new car answers to the slightest touch.	1
+Her husband often abuses alcohol.	1
+pigs were wallowing in the mud.	0
+Are the letters properly stamped?	0
+inflate the currency.	1
+stock prices are drifting higher.	1
+I attacked the problem as soon as I got out of bed.	1
+The wildfire scorched the forest and several homes.	0
+She locked her jewels in the safe.	0
+The cold pierced her bones.	1
+The champagne flowed at the wedding.	1
+A hot soup will revive me.	1
+Life in the camp drained him.	1
+This hotel can accommodate 250 guests.	0
+Interns have to rotate for a few months.	1
+Boys gravitate towards girls at that age.	1
+She was besieged by so many problems that she got discouraged.	1
+Sound is reflected well in this auditorium.	0
+The container leaked gasoline.	0
+Sales were climbing after prices were lowered.	1
+I salute your courage!	1
+The property vests in the trustees.	0
+The water swells the wood.	0
+The path ascended to the top of the hill.	0
+The champagne bottle exploded.	0
+These books sell like hot cakes.	0
+She inclined her head to the student.	0
+She sowed sunflower seeds.	0
+The rules relaxed after the new director arrived.	1
+Water sprayed all over the floor.	0
+The spasm convulses her facial muscles.	0
+sow suspicion or beliefs.	1
+Many people immigrated at the beginning of the 20th century.	0
+They poured water over the floor.	0
+There will be men guarding the horses.	0
+Inheritance may not ascend linearly.	1
+the player juggled the ball.	0
+the invaders seized the land and property of the inhabitants.	0
+mount slides for macroscopic analysis.	0
+She neutralized the solution.	0
+The mother drinks in every word of her son on the stage.	1
+Our office is fully computerized now.	0
+She designed a good excuse for not attending classes that day.	1
+We drained the oil tank.	0
+The father is portrayed as a good- looking man in this painting.	0
+Meteors blazed across the atmosphere.	1
+The sun glared down on us.	1
+She had to juggle her job and her children.	1
+He swallowed his words.	1
+grind the spices in a mortar.	0
+He floated the logs down the river.	0
+Companies will now stampede to release their latest software.	1
+She stuffed herself at the dinner.	1
+He kited many checks.	1
+paste the sign on the wall.	0
+The ex- boxer's job is to bounce people who want to enter this private club.	1
+Our economy precipitated into complete ruin.	1
+We can compare the Han dynasty to the Romans.	0
+The liquid fills the container.	0
+Will this wallpaper adhere to the wall?	0
+This dress spots quickly.	0
+Did you ever climb up the hill behind your house?	0
+The Nazis swallowed the Baltic countries.	1
+The actress abused the policeman who gave her a parking ticket.	0
+The unknown young man drifted among the invited guests.	1
+The curtain ripped from top to bottom.	0
+This experience transformed her completely.	1
+The dancer floated across the stage.	1
+The cigar smoke curled up at the ceiling.	1
+She scanned the newspaper headlines while waiting for the taxi.	1
+This behavior will ruin your chances of winning the election.	1
+A weather vane crowns the building.	1
+The teacher nodded when the student gave the right answer.	0
+The pothole fractured a bolt on the axle.	0
+It can transform energy to light.	0
+The Senator blistered the administration in his speech on Friday.	1
+lay the books on the table.	0
+She wanted to buy his love with her dedication to him and his work.	0
+Actions talk louder than words.	1
+He pumped bullets into the dummy.	1
+The baby talks already.	0
+grind lenses for glasses and cameras.	0
+They clawed their way to the top of the mountain.	1
+The immigrants were quickly absorbed into society.	1
+The liberal party pushed for reforms.	1
+The ostentatious way of living of the rich ignites the hatred of the poor.	1
+flood the market with tennis shoes.	1
+The police raided the crack house.	0
+The cold air condensed the steam.	0
+Goya wanted to portray his mistress, the Duchess of Alba.	0
+The cat scraped at the armchair.	0
+I inherited my good eyesight from my mother.	0
+steamroller the road.	0
+He was locked in a laughing fit.	1
+The passenger grabbed for the oxygen mask.	0
+The girl glared at the man who tried to make a pass at her.	0
+We interrupt the program for the following messages.	0
+I can not digest milk products.	0
+Johnson brushed the hairs from his jacket.	0
+wallow in your success!	1
+The problem roots in her depression.	1
+When the officers show up, the soldiers have to salute.	0
+smother the meat in gravy.	0
+Lock the bike to the fence!	0
+The oscillator hunts about the correct frequency.	1
+heap the platter with potatoes.	0
+The sales clerk quickly seized the money on the counter.	0
+blood stagnates in the capillaries.	0
+fuel aircraft, ships, and cars.	0
+male birds tread the females.	0
+This office is buzzing with activity.	1
+trees line the riverbank.	1
+He downed three martinis before dinner.	1
+They were locked in embrace.	1
+The police smashed the drug ring after they were tipped off.	1
+This boss abuses his workers.	0
+The Crown Prince was acknowledged as the true heir to the throne.	0
+load the truck with hay.	0
+This sum will buy you a ride on the train.	0
+The company dumped him after many years of service.	1
+This dress fastens in the back.	0
+She molded the rice balls carefully.	0
+He nodded his approval.	1
+She devoured his novels.	1
+The mountain was splashed with snow.	1
+bees were buzzing around the hive.	0
+the flowers were nodding in the breeze.	1
+We painted the rooms yellow.	0
+Her faced puffed up from the drugs.	0
+He pasted his opponent.	1
+This vaccine will guard you against infection.	1
+The Serbs attacked the village at night.	0
+Am I supposed to swallow that story?	1
+I will lend you my car.	0
+He brushed the wall lightly.	0
+engrave the pen with the owner's name.	0
+The prince was crowned in Westminster Abbey.	0
+This play is going to ruffle some people.	1
+The truck dumped the garbage in the street.	0
+commit a random act of kindness.	0
+The French try to sell us their image as great lovers.	1
+Every star seemed to flare with new intensity.	1
+They plan to uproot the vine that has spread all over the garden.	0
+We had to sharpen our arguments.	1
+We haven't even begun to map the many galaxies that we know exist.	0
+The needle pierced her flesh.	0
+The car crushed the toy.	0
+The government relaxed the curfew after most of the rebels were caught.	1
+She pumped the witnesses for information.	1
+She splashed the water around her.	0
+the surgeon scanned the X- ray.	0
+The mess in his dorm room reflects on the student.	1
+I'm afraid this spells trouble!	1
+The bullets whistled past him.	1
+The river thundered below.	1
+the salesman pounded the door knocker.	0
+The gun kicked back into my shoulder.	0
+Age and experience mellowed him over the years.	1
+acknowledge the deed.	0
+the rebels had salted the fields with mines and traps.	1
+The vessel was shipwrecked.	0
+Interest in ESP revived.	1
+The addict was snorting cocaine almost every day.	0
+The doctors revived the comatose man.	0
+He absorbed the costs for the accident.	1
+deflate the air mattress.	0
+She is pushing fifty.	1
+the pilot managed to land the airplane safely.	0
+The pool slowly filled with water.	0
+blue paint dashed with white.	0
+The sun radiates heat.	1
+I wrestled with this decision for years.	1
+the water formed little beads.	0
+a terrible stench saluted our nostrils.	1
+Her optimism whistled away these worries.	1
+The huge waves swallowed the small boat and it sank shortly thereafter.	1
+Thunderbolts can stampede animals.	0
+The scream pierced the night.	1
+My son drifted around for years in California before going to law school.	1
+this may land you in jail.	1
+The nightingale was singing.	0
+He shed his image as a pushy boss.	1
+level criticism or charges at somebody.	1
+after a glass of wine, he lightened up a bit.	1
+He marched into the classroom and announced the exam.	0
+Please communicate this message to all employees.	0
+Great heat can ignite almost any dry matter.	0
+You are taxing my patience.	1
+This job doesn't match my dreams.	1
+She tugged for years to make a decent living.	1
+The author recaptures an old idea here.	1
+He showered her with presents.	1
+The room lightened up.	0
+He leaned his rifle against the wall.	0
+dashed ambitions and hopes.	1
+The haze blurs the hills.	0
+His mind groped to make the connection.	1
+deflate the currency.	1
+They mounted the aerator on a floating.	0
+The Turks besieged Vienna.	0
+The two pieces match.	0
+The building was levelled.	0
+These apples need to mellow a bit more.	0
+The defendant answered to all the charges of the prosecution.	0
+The speech crowned the meeting.	1
+He loaded his gun carefully.	0
+The sudden fame puffed her ego.	1
+Our dog sheds every Spring.	0
+The politician clawed his rival.	1
+These events could fracture the balance of power.	1
+She splashed the water around her.	0
+Her efforts will redound to the general good.	1
+This car does not compare with our line of Mercedes.	0
+Their language inclines us to believe them.	1
+The fog blurs my vision.	0
+The therapist noticed that the patient's knees tended to lock in this exercise.	0
+The colors don't harmonize.	1
+He sifted the information.	1
+He trenched his military camp.	0
+He communicated his anxieties to the psychiatrist.	0
+A rash erupted on her arms after she had touched the exotic plant.	1
+The event engraved itself into her memory.	1
+One can never fully repair the suffering and losses of the Jews in the Third Reich.	1
+The ship steamed off into the Pacific.	0
+Fear seized the prisoners.	1
+The old cheese was crawling with maggots.	1
+The State taxes alcohol heavily.	0
+A shooting star flashed and was gone.	0
+Can you taste the garlic?	0
+Shake the salt out of the salt shaker.	0
+Age had dulled the surface.	0
+Don't twist my words.	1
+juggle an account so as to hide a deficit.	1
+When does the court of law sit?	0
+lined books are more enduring.	0
+The principal visited his rage on the students.	1
+the theater was jampacked.	1
+She salts her lectures with jokes.	1
+She was staggered with bills after she tried to rebuild her house following the earthquake.	1
+suck the poison from the place where the snake bit.	0
+This drug will sharpen your vision.	1
+He dashed the plate against the wall.	0
+people used to salt meats on ships.	0
+trench the fallen soldiers.	0
+The child colored the drawings.	0
+The path climbed all the way to the top of the hill.	1
+key one's actions to the voters' prevailing attitude.	1
+This writer really fractures the language.	1
+Please erase the formula on the blackboard -- it is wrong!	0
+The bus thundered down the road.	1
+The horse was galloping along.	0
+The bad review of his work deflated his self- confidence.	1
+We ascended the mountain.	0
+The horse finally tugged the cart out of the mud.	0
+The rooms communicated.	1
+Did you ever visit Paris?.	0
+I swallowed my anger and kept quiet.	1
+My nose is all stuffed.	0
+the kettle was singing.	1
+spray water on someone.	0
+The company matched the employees' contributions.	1
+We must acknowledge the kindness she showed towards us.	0
+The rain water drains into this big vat.	0
+The question concerning the meaning of life can not be answered.	0
+She whistled a melody.	0
+The news were leaked to the paper.	1
+The book portrays the actor as a selfish person.	1
+The architect decided to stagger the chairs in the lecture hall.	0
+The bird ruffled its feathers.	0
+The Republicans are floating the idea of a tax reform.	1
+he devoured three sandwiches.	0
+Every summer, we visited our relatives in the country for a month.	1
+The wrestler twisted his shoulder.	0
+Tears guttered down her face.	1
+mount a campaign against pornography.	1
+ping your machine in the office.	0
+The listeners bolted when he discussed his strange ideas.	1
+A star tops the Christmas Tree.	0
+the bodybuilder's neck muscles tensed.	0
+fill the child with pride.	1
+The prisoners are safely pounded.	1
+The war inflated the economy.	1
+The military forces managed to recapture the fort.	0
+Our new synthetic fabric breathes and is perfect for summer wear.	1
+sow the ground with sunflower seeds.	0
+Fear clogged her mind.	1
+The sailors decided to tack the boat.	0
+negociate securities.	0
+This new colleague invades my territory.	1
+The Turks erased the Armenians in 1915.	1
+color the walls with paint in warm tones.	0
+The scientists had to accommodate the new results with the existing theories.	1
+Fame redounds to the heroes.	1
+one idea squares with the other one.	1
+The stars gravitate towards each other.	0
+The new measures deflated the economy.	1
+She talks a lot of nonsense.	0
+We ferment the grapes for a very long time to achieve high alcohol content.	0
+Chanel designed the famous suit.	0
+Protein digests in a few hours.	0
+The leaves clog our drains in the Fall.	0
+Her feet blistered during the long hike.	0
+" Now push hard", said the doctor to the woman.	0
+The sun radiates heat.	1
+He fastened the lock onto the door.	0
+This story will grab you.	1
+Water flowed into the cave.	0
+sorrow was mapped on the mother's face.	1
+The heavy rain guttered the soil.	0
+The ship landed in Pearl Harbor.	0
+The dress molds her beautiful figure.	1
+build a defense on nothing but the accused person's reputation.	1
+Boost the voltage in an electrical circuit.	0
+The Japanese marched their prisoners through Manchuria.	0
+stuff a pillow with feathers.	0
+reform a political system.	0
+This exercise will hurt your back.	0
+The coals were glowing in the dark.	0
+spray the wall with paint.	0
+Let them match their best athletes against ours.	1
+preserve the peace in the family.	1
+The new chairman inherited many problems from the previous chair.	1
+steamroller the opposition.	1
+She was crushed by his refusal of her invitation.	1
+horses were clogged until they were tamed.	1
+the conversation lightened me up a bit.	1
+The driver jammed the brake pedal to the floor.	0
+She wanted to ruffle his composure.	1
+she snorted her disapproval of the proposed bridegroom.	1
+She swallowed the last words of her speech.	1
+The balloons deflated.	0
+The patient must drink several liters each day.	0
+The market is being clogged by these operations.	1
+Her feelings condensed.	1
+Industry will stagnate if we do not stimulate our economy.	1
+The fishermen tied their flies.	0
+They tied their victim to the chair.	0
+The singer had to be boosted onto the stage by a special contraption.	0
+The treaty neutralized the small republic.	1
+her sunglasses reflected his image.	0
+He revived this style of opera.	1
+The swollen river flooded the village.	0
+Greed and ambition composed his personality.	1
+The hydrogen binds the oxygen.	1
+He made some sexual advances at the woman in his office and groped her repeatedly.	0
+Every summer, we visited our relatives in the country for a month.	0
+He locked his hands around her neck.	1
+The stock market drifted upward.	1
+the stock market plunged.	1
+their manes streamed like stiff black pennants in the wind.	1
+I heard him volley a string of curses.	1
+Her optimism neutralizes his gloom.	1
+Beethoven composed nine symphonies.	0
+The drunken man staggered into the room.	0
+We had to swim for 20 minutes to reach the shore.	0
+The locks pound the water of the canal.	1
+We injected the glucose into the patient's vein.	0
+The plastic bottle crushed against the wall.	0
+this plant roots quickly.	0
+She was streaming with sweat.	1
+They topped off their dinner with a cognac.	1
+He painted his mistress many times.	0
+he flashed a$ 100 bill.	1
+The tanker fueled in Bahrain.	0
+His political ideas color his lectures.	1
+fuel the debate on creationism.	1
+She had scraped together enough money for college.	1
+nagging concerns and doubts.	1
+The wine spotted the tablecloth.	0
+Vesuvius erupts once in a while.	0
+The motorcycle smashed into the guard rail.	0
+She poisoned her husband.	0
+The bird landed on the highest branch.	0
+map the surface of Venus.	0
+society was infected by racism.	1
+The program committee acknowledged the submission of the authors of the paper.	0
+She smashed her car against the guard rail.	0
+mount a theater production.	1
+letters trenched into the stone.	0
+the pig was rooting for truffles.	0
+The tugboat tugged the freighter into the harbor.	0
+We preserve these archeological findings.	0
+capture the essence of Spring.	1
+A big oil spot spread across the water.	0
+The rubber ball bounced.	0
+She captured all the men's hearts.	1
+The cancer had invaded her lungs.	1
+The garbage flushed down the river.	0
+my brain is swimming after the bottle of champagne.	1
+The enemy exploded the bridge.	0
+The cooling lava continued to gutter toward lower ground.	0
+Tears streamed down her face.	0
+The crocodile was crawling along the riverbed.	0
+This mushrooms can poison.	0
+John compared his haircut to his friend's.	0
+The current boom in the economy sucked many workers in from abroad.	1
+All our planets condensed out of the same material.	0
+These big jets are tied to large airports.	1
+The new moon peeped through the tree tops.	1
+The athlete pumps weights in the gym.	0
+Drive carefully -- the wet road reflects.	0
+The salesman is aggressively pushing the new computer model.	1
+Please use a computerized disctionary.	0
+He tacked together some verses.	1
+He always wears a smile.	1
+The crowd flowed out of the stadium.	1
+The roofer began to gutter the buildings.	0
+the mechanism jammed.	0
+She had to recast her image to please the electorate in her home state.	1
+He heaped him with work.	1
+The needle pricked his skin.	0
+The parties negociated all night.	0
+She brushed the suit before hanging it back into the closet.	0
+The sun melted the ice.	0
+He bowed before the King.	0
+How do you spell this word?	0
+The smoke clouded above the houses.	0
+drift the boats downstream.	0
+The candidate ripped into his opponent mercilessly.	1
+The heat scorched the countryside.	1
+Congress condensed the three- year plan into a six- month plan.	1
+The government bowed to the military pressure.	1
+We rotate the lead soprano every night.	1
+harmonize one's goals with one's abilities.	1
+You have shipwrecked my career.	1
+The husband drinks and beats his wife.	0
+They tried to recapture the escaped prisoner.	0
+The policeman downed the heavily armed suspect.	0
+The distinction between the two theories blurred.	1
+engraved the trophy cupt with the winner's.	0
+My personal feelings color my judgment in this case.	1
+The comedian convulsed the crowd.	1
+He never acknowledges his colleagues when they run into him in the hallway.	0
+The guy hanging around the school is pushing drugs.	1
+Her violent feelings palpitated the young woman's heart.	0
+paste the sign on the wall.	0
+Planes buzzed the crowds in the square.	0
+He peeped at the woman through the window.	0
+The critic snorted contemptuously.	1
+The hunters traced the deer into the woods.	0
+spot the areas that one should clearly identify.	0
+The ex- slave tasted freedom shortly before she died.	1
+lay the foundation for a new health care plan.	1
+The brothers sell shoes.	0
+her resistance melted under his charm.	1
+There are marshes that stagnate the waters.	0
+He landed several blows on his opponent's head.	1
+The bad news shook her hopes.	1
+the sky flushed with rosy splendor.	1
+Fire had devoured our home.	1
+just steam the vegetables.	0
+The vestiges of political democracy were soon uprooted.	1
+Some nice results emerged from the study.	1
+The press was gagged.	1
+This action reflects his true beliefs.	1
+He breathed new life into the old house.	1
+Curl my hair, please.	0
+Have you stuffed the turkey yet?	0
+She was wearing yellow that day.	0
+The charges were inflated.	1
+She was singing while she was cooking.	0
+The seamstress ruffled the curtain fabric.	0
+People were pouring out of the theater.	1
+load the bags onto the trucks.	0
+The boy kicked the dog.	0
+the butter cream smothered the cake.	1
+Our babysitter raided our refrigerator.	1
+He squared his shoulders.	1
+We don't know the woman who posed for Leonardo so often.	0
+The pilot kited for a long time over the mountains.	0
+The mother was swelling with importance when she spoke of her son.	1
+Make the people's hearts glow.	1
+The children wrestled in the garden.	0
+The crowd pushed forward.	0
+The pirates raided the coastal villages regularly.	0
+The tornado ripped along the coast.	1
+the workers spell every four hours.	1
+The Chinese would bind the feet of their women.	0
+He transformed into a monster.	1
+The war uprooted many people.	1
+The debate sharpened.	1
+Her face glowed when she came out of the sauna.	1
+Don't bolt your food!	1
+answer the telephone.	0
+This nucleus has captured the slow- moving neutrons.	0
+They computerized the car industry.	0
+She drowned her trouble in alcohol.	1
+This story would lend itself well to serialization on television.	1
+The bell cracked and had to be recast.	0
+The press photographers besieged the movie star.	1
+He absorbed the knowledge or beliefs of his tribe.	1
+a man whose name is permanently stamped on our maps.	1
+The summer sun alone can cause a pine to blaze.	0
+The sales tax is absorbed into the state income tax.	1
+She grabbed the child's hand and ran out of the room.	0
+spread cheese on a piece of bread.	0
+The drug smugglers landed the heroin on the beach of the island.	0
+The Senator steamrollered the bill to defeat.	1
+The wind ruffled the surface of the water.	0
+The bridge broke and precipitated the train into the river below.	1
+The tax cut will boost the economy.	1
+Hundreds of actors were melting into the scene.	1
+This rare Bordeaux must be allowed to breathe for at least 2 hours.	0
+He wrestled all his life with his feeling of inferiority.	1
+He was showered with praise.	1
+The boss exploded when he heard of the resignation of the secretary.	1

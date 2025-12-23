@@ -1,0 +1,11 @@
+tqdm
+dill
+optuna
+nltk==3.4.5
+transformers==4.3.3
+pytorch-lightning==1.1.7
+comet-ml==3.10.0
+networkx==2.5
+black==20.8b1 # code formatter
+matplotlib==3.5.1
+seaborn
