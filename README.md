@@ -34,4 +34,5 @@ pip install -r requirements.txt
 
 ## 🏃 run
 To train the model with the default configuration:
+```bash
 python run.py 
