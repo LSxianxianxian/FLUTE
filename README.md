@@ -23,7 +23,7 @@ This repository contains the source code for **FLUTE**, a framework designed for
 
 ## 🛠️ Installation
 
-```bash
+bash
 # Clone the repository
 git clone [https://github.com/LSxianxianxian/FLUTE.git](https://github.com/LSxianxianxian/FLUTE.git)
 cd FLUTE
@@ -34,5 +34,5 @@ pip install -r requirements.txt
 
 ## 🏃 run
 To train the model with the default configuration:
-```bash
+bash
 python run.py 
