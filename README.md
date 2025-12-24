@@ -16,7 +16,7 @@ This repository contains the source code for **FLUTE**, a framework designed for
 
 ---
 ### 🖼️ Model Architecture
-![FLUTE Framework](./framework.png)
+![FLUTE Framework](./model.png)
 > *Figure 1: Overview of the FLUTE framework. It consists of (1) Prompt Construction with dynamic exemplars, (2) Encoding with DeBERTa, and (3) Joint Optimization with Cross-Entropy and Supervised Contrastive Loss.*
 
 ---
@@ -30,3 +30,8 @@ cd FLUTE
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+## 🏃 run
+To train the model with the default configuration:
+python run.py 
