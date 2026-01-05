@@ -20,10 +20,10 @@ val_check_interval: int = 1  # Validate after each epoch
 #max_steps: int = 5       # Total training steps
 
 # Batch
-batch_size: int = 16  # 原本可能为 32，减小到 16 或更小
+batch_size: int = 16  
 
 # Gradient
-accumulate_grad_batches: int = 2  # 通过梯度累积模拟更大批量
+accumulate_grad_batches: int = 2 
 gradient_clip_val: float = 1.0
 weight_decay: float = 0.01
 lr: float = 1e-5
@@ -35,11 +35,11 @@ precision: int = 32  # Mixed precision
 # Pretrained model
 pmodel: Dict = {
     "name": "microsoft/deberta-large",
-    "max_len": 256,  # 从 512 减小到 256 或更低
+    "max_len": 256,  
 }
 
 example_sentences = {
-    0: [  # 字面示例（普通叙述性句子，无比喻）
+    0: [  # Literal
         "He walked to the store.",
         "She is reading a book.",
         "They are playing outside.",
@@ -52,7 +52,7 @@ example_sentences = {
         "She took the bus to work."
     ],
 
-    1: [  # 隐喻示例（隐喻表达，不使用"像"或"如"）
+    1: [  # Metaphor
         "The economy is on the brink of collapse.",
         "His career is a sinking ship.",
         "The stock market is a roller coaster ride.",
@@ -69,7 +69,7 @@ example_sentences = {
 
     ],
 
-    2: [  # 转喻示例（用相关概念代指目标概念）
+    2: [  # Metonymy
         "The White House issued a statement today.",
         "Wall Street is nervous about inflation.",
         "Hollywood loves a scandal.",
@@ -82,7 +82,7 @@ example_sentences = {
         "Capitol Hill is in turmoil over the new bill."
     ],
 
-    3: [  # 明喻示例（包含“像”或“如”）
+    3: [  # Simile
         "She runs like the wind.",
         "His smile is as bright as the sun.",
         "The baby was like an angel sleeping.",
